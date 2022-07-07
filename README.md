@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Vini-php" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-JS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Js/Javascript-original.svg">
+  <img align="center" alt="Vini-JS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/Javascript-original.svg">
   <div>
 
   </div>
